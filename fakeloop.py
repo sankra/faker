@@ -1,3 +1,4 @@
+#importing Faker Module from faker package
 from faker import Faker
 
 fake = Faker()
